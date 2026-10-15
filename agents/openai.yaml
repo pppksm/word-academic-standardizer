@@ -1,0 +1,7 @@
+interface:
+  display_name: "Word Academic Standardizer"
+  short_description: "Safely normalize academic Word document formatting"
+  brand_color: "#1F4E79"
+  default_prompt: "Use $word-academic-standardizer to normalize this academic Word document and report uncertain or high-risk issues."
+policy:
+  allow_implicit_invocation: true
